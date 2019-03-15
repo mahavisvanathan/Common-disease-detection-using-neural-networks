@@ -1,2 +1,2 @@
 # Common-disease-detection-using-neural-networks
-![Screenshot](readmeimages/redeyepredicition.PNG)
+<img src="readmeimages/redeyepredicition.PNG" width="300" height="250">
