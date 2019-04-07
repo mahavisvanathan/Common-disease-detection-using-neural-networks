@@ -1,5 +1,7 @@
 # Common-disease-detection-using-neural-networks
-<img src="https://img.shields.io/badge/language-Python-blue.svg">
+
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
+
 ## What is this project?
 This is an application that is used to detect very common diseases that display their symptoms externally like ey, skin, mouth, nail diseases
 ## How was it achieved?
