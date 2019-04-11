@@ -14,4 +14,4 @@ This is an application that is used to detect very common diseases that display 
   <img src="readmeimages/tbclip.PNG" width="550" height="500">
  
  ## Sample predictions
- <img src="readmeimages/redeyepredicition.PNG" width="300" height="250"><img src="readmeimages/jaundiceprediction.PNG" width="300" height="250"><img src="readmeimages/normaleyepred.PNG" width="300" height="250">
+ <img src="readmeimages/redeyepredicition.PNG" width="375" height="225"><img src="readmeimages/jaundiceprediction.PNG" width="275" height="225"><img src="readmeimages/normaleyepred.PNG" width="275" height="225">
